@@ -1,5 +1,4 @@
-
-# 仅供内部学习交流
+ 
 # What is Kotlin
 
 
