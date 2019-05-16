@@ -1,4 +1,6 @@
  
+ ps:代码是采用kotlin实现的MVP模式
+ 
 # What is Kotlin
 
 
