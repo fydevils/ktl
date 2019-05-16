@@ -1,10 +1,10 @@
 
+# 仅供内部学习交流
 # What is Kotlin
 
 
 Kotlin语言是由JetBrains公司开发，也被赞誉为Android世界里的Swift。2019 io大会宣布，Android 开发将越来越向 Kotlin 倾斜，许多新增的 [Jetpack API]( https://developer.android.google.cn/jetpack/)和功能也将优先提供 Kotlin 版本
-# 目录
-![image](1ADE476126D04B9DB04A99250676270D)
+ 
 
 # 一.能给开发者带来什么？
 -  更少的空指针异常
